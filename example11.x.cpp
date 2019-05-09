@@ -1,4 +1,4 @@
-#include "wise_enum.h"
+#include "unique_header/wise_enum.hpp"
 
 #include <cassert>
 #include <iostream>
